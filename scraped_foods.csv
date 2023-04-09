@@ -1,42 +1,42 @@
 ,product,kcal,kj,fat_g,sat_fat_g,carb_g,sugar_g,fiber_g,protein_g,salt_g,kg_price_kr,price_kr,link
-0,Tortiglioni 400g Zeta,367,1555,1.5,0.5,73,3,2.5,14, Salt 0 g,57.38,22.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tortiglioni-400g-Zeta/1401709
-1,Kycklingfilé Fryst 1kg Kronfågel,90,400,1.5,0.5,0.5,0.5,0,19, Salt 0.6 g,124.95,124.95,https://handlaprivatkund.ica.se/stores/1003417/products/Kycklingfil%C3%A9-Fryst-1kg-Kronf%C3%A5gel/1209917
-2,Tofu Naturell Ekologisk 400g YiPin,118,494,5.9,1.1,2.1,0.2,0,14.2, Salt 0.01 g,84.88,33.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tofu-Naturell-Ekologisk-400g-YiPin/2025514
-3,Tofu naturell 400g ICA Basic,116,483,5.8,1,0.5,0.5,0,15, Salt 0.03 g,59.88,23.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tofu-naturell-400g-ICA-Basic/2091250
-4,Tofu Naturell Ekologisk 270g KRAV Kung Markatta,148,615,8.6,1.4,1.6,0.1,1.7,15, Salt 0.1 g,110.93,29.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tofu-Naturell-Ekologisk-270g-KRAV-Kung-Markatta/2093254
+0,Tortiglioni 400g Zeta,367,1555,1.5,0.5,73,3,2.5,14,0,57.38,22.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tortiglioni-400g-Zeta/1401709
+1,Kycklingfilé Fryst 1kg Kronfågel,90,400,1.5,0.5,0.5,0.5,0,19,0.6,124.95,124.95,https://handlaprivatkund.ica.se/stores/1003417/products/Kycklingfil%C3%A9-Fryst-1kg-Kronf%C3%A5gel/1209917
+2,Tofu Naturell Ekologisk 400g YiPin,118,494,5.9,1.1,2.1,0.2,0,14.2,0.01,84.88,33.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tofu-Naturell-Ekologisk-400g-YiPin/2025514
+3,Tofu naturell 400g ICA Basic,116,483,5.8,1,0.5,0.5,0,15,0.03,59.88,23.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tofu-naturell-400g-ICA-Basic/2091250
+4,Tofu Naturell Ekologisk 270g KRAV Kung Markatta,148,615,8.6,1.4,1.6,0.1,1.7,15,0.1,110.93,29.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tofu-Naturell-Ekologisk-270g-KRAV-Kung-Markatta/2093254
 5,"Havregryn 1,5kg ICA",370,1550,7,1.1,64,1,7.5,9.5,0,16.63,24.95,https://handlaprivatkund.ica.se/stores/1003417/products/Havregryn-1-5kg-ICA/1008471
 6,"Havregryn 1,5kg AXA",370,1550,7,2.9,1.3,2.8,60,1.2,8.5,19.97,29.95,https://handlaprivatkund.ica.se/stores/1003417/products/Havregryn-1-5kg-AXA/1004771
-7,Kikärtor 190g Zeta,120,502,2.5,0.5,14,0.5,6.6,6.7, Salt 1 g,121.30,13.95,https://handlaprivatkund.ica.se/stores/1003417/products/Kik%C3%A4rtor-190g-Zeta/1489188
-8,Blandade Bönor 190g Zeta,98,411,1.1,0.5,12,0.6,6.3,6.6, Salt 0 g,121.30,13.95,https://handlaprivatkund.ica.se/stores/1003417/products/Blandade-B%C3%B6nor-190g-Zeta/1489192
-9,Ägg Gyllengula M/L 10-p ICA,140,600,9.7,2.6,0.5,0,0,12, Salt 0.4 g,4.20,41.95,https://handlaprivatkund.ica.se/stores/1003417/products/%C3%84gg-Gyllengula-M-L-10-p-ICA/1242448
-10,Jasminris 5kg ICA Basic,350,1500,0.7,0.5,78,0.5,0,7.5, Salt 0 g,18.99,94.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jasminris-5kg-ICA-Basic/1412699
-11,Parboiled Ris 5kg ICA Basic,350,1500,1.7,0.5,76,0.5,1.6,7.4, Salt 0 g,17.99,89.95,https://handlaprivatkund.ica.se/stores/1003417/products/Parboiled-Ris-5kg-ICA-Basic/1411307
+7,Kikärtor 190g Zeta,120,502,2.5,0.5,14,0.5,6.6,6.7,1,121.30,13.95,https://handlaprivatkund.ica.se/stores/1003417/products/Kik%C3%A4rtor-190g-Zeta/1489188
+8,Blandade Bönor 190g Zeta,98,411,1.1,0.5,12,0.6,6.3,6.6,0,121.30,13.95,https://handlaprivatkund.ica.se/stores/1003417/products/Blandade-B%C3%B6nor-190g-Zeta/1489192
+9,Ägg Gyllengula M/L 10-p ICA,140,600,9.7,2.6,0.5,0,0,12,0.4,4.20,41.95,https://handlaprivatkund.ica.se/stores/1003417/products/%C3%84gg-Gyllengula-M-L-10-p-ICA/1242448
+10,Jasminris 5kg ICA Basic,350,1500,0.7,0.5,78,0.5,0,7.5,0,18.99,94.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jasminris-5kg-ICA-Basic/1412699
+11,Parboiled Ris 5kg ICA Basic,350,1500,1.7,0.5,76,0.5,1.6,7.4,0,17.99,89.95,https://handlaprivatkund.ica.se/stores/1003417/products/Parboiled-Ris-5kg-ICA-Basic/1411307
 12,Jasminris 2kg ICA Basic,350,1500,1,0,80,0,0,6.5,0,19.98,39.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jasminris-2kg-ICA-Basic/1411313
-13,Jordnötter 1kg ICA Basic,618,2559,50,6,9.6,5,0,26, Salt 1 g,39.95,39.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jordn%C3%B6tter-1kg-ICA-Basic/1410849
-14,Jordnötssmör Crunchy 700g ICA I love eco,606,2510,48,7.7,12,5.7,0,26, Salt 0.7 g,107.07,74.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jordn%C3%B6tssm%C3%B6r-Crunchy-700g-ICA-I-love-eco/2073427
-15,Jordnötssmör Crunchy 1kg KRAV Green Choice,589.7,2469,48.9,6.2,7.6,4.7,8.4,25.6, Salt 0.7 g,114.95,114.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jordn%C3%B6tssm%C3%B6r-Crunchy-1kg-KRAV-Green-Choice/1519108
-16,Fusilli 3 kg ICA Basic,364,1543,1.7,0.5,75,2.6,3.1,12, Salt 0 g,18.32,54.95,https://handlaprivatkund.ica.se/stores/1003417/products/Fusilli-3-kg-ICA-Basic/2089173
-17,Spaghetti 1kg ICA Basic,364,1543,1.7,0.5,75,2.6,3.1,12, Salt 0 g,16.95,16.95,https://handlaprivatkund.ica.se/stores/1003417/products/Spaghetti-1kg-ICA-Basic/2077761
-18,Krögarpytt Vegetarisk 700g Felix,185,773,7.6,0.6,22,2.1,3.2,5.6, Salt 0.9 g,75.64,52.95,https://handlaprivatkund.ica.se/stores/1003422/products/Kr%C3%B6garpytt-Vegetarisk-700g-Felix/2077905
+13,Jordnötter 1kg ICA Basic,618,2559,50,6,9.6,5,0,26,1,39.95,39.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jordn%C3%B6tter-1kg-ICA-Basic/1410849
+14,Jordnötssmör Crunchy 700g ICA I love eco,606,2510,48,7.7,12,5.7,0,26,0.7,107.07,74.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jordn%C3%B6tssm%C3%B6r-Crunchy-700g-ICA-I-love-eco/2073427
+15,Jordnötssmör Crunchy 1kg KRAV Green Choice,589.7,2469,48.9,6.2,7.6,4.7,8.4,25.6,0.7,114.95,114.95,https://handlaprivatkund.ica.se/stores/1003417/products/Jordn%C3%B6tssm%C3%B6r-Crunchy-1kg-KRAV-Green-Choice/1519108
+16,Fusilli 3 kg ICA Basic,364,1543,1.7,0.5,75,2.6,3.1,12,0,18.32,54.95,https://handlaprivatkund.ica.se/stores/1003417/products/Fusilli-3-kg-ICA-Basic/2089173
+17,Spaghetti 1kg ICA Basic,364,1543,1.7,0.5,75,2.6,3.1,12,0,16.95,16.95,https://handlaprivatkund.ica.se/stores/1003417/products/Spaghetti-1kg-ICA-Basic/2077761
+18,Krögarpytt Vegetarisk 700g Felix,185,773,7.6,0.6,22,2.1,3.2,5.6,0.9,75.64,52.95,https://handlaprivatkund.ica.se/stores/1003422/products/Kr%C3%B6garpytt-Vegetarisk-700g-Felix/2077905
 19,Plant-based Schnitzel 720g Hälsans Kök,0,0,0,0,0,0,0,0,0,109.65,78.95,https://handlaprivatkund.ica.se/stores/1003422/products/Plant-based-Schnitzel-720g-H%C3%A4lsans-K%C3%B6k/2101404
 20,Plant-based Nuggets 700g Hälsans Kök,0,0,0,0,0,0,0,0,0,112.79,78.95,https://handlaprivatkund.ica.se/stores/1003422/products/Plant-based-Nuggets-700g-H%C3%A4lsans-K%C3%B6k/2101405
-21,Vegofärs Glutenfri Fryst 1kg Anamma,174,728,9.7,0.8,1.9,0.9,5,17, Salt 0.8 g,87.95,87.95,https://handlaprivatkund.ica.se/stores/1003422/products/Vegof%C3%A4rs-Glutenfri-Fryst-1kg-Anamma/2011324
-22,Röda Linser 800g ICA Basic,362,1515,2.1,0.4,60,2,11,30, Salt 0.05 g,38.69,30.95,https://handlaprivatkund.ica.se/stores/1003422/products/R%C3%B6da-Linser-800g-ICA-Basic/2084265
+21,Vegofärs Glutenfri Fryst 1kg Anamma,174,728,9.7,0.8,1.9,0.9,5,17,0.8,87.95,87.95,https://handlaprivatkund.ica.se/stores/1003422/products/Vegof%C3%A4rs-Glutenfri-Fryst-1kg-Anamma/2011324
+22,Röda Linser 800g ICA Basic,362,1515,2.1,0.4,60,2,11,30,0.05,38.69,30.95,https://handlaprivatkund.ica.se/stores/1003422/products/R%C3%B6da-Linser-800g-ICA-Basic/2084265
 23,Potatis Fast 4kg Klass 2 ICA,0,0,0,0,0,0,0,0,0,12.24,48.95,https://handlaprivatkund.ica.se/stores/1003422/products/Potatis-Fast-4kg-Klass-2-ICA/2058699
 24,Sojadryck High Protein 1l Alpro,57,239,2.8,1.7,0.5,0.6,2.5,2.5,0.9,23.95,23.95,https://handlaprivatkund.ica.se/stores/1003422/products/Sojadryck-High-Protein-1l-Alpro/2053259
 25,Sojadryck Original Kalcium 1l Miljömärkt Alpro,39,163,1.8,0.3,2.5,2.5,0.5,3,0.09,21.95,21.95,https://handlaprivatkund.ica.se/stores/1003422/products/Sojadryck-Original-Kalcium-1l-Milj%C3%B6m%C3%A4rkt-Alpro/1465006
-26,Kyckling bröstfile Fryst mörad 1kg ICA,90,400,1.5,0.5,0.5,0.5,0,19, Salt 0.6 g,97.95,97.95,https://handlaprivatkund.ica.se/stores/1003422/products/Kyckling-br%C3%B6stfile-Fryst-m%C3%B6rad-1kg-ICA/1487777
-27,Kycklingfilé Fryst 2kg Kronfågel,90,400,1.5,0.5,0.5,0.5,0,19, Salt 0.6 g,106.98,213.95,https://handlaprivatkund.ica.se/stores/1003422/products/Kycklingfil%C3%A9-Fryst-2kg-Kronf%C3%A5gel/1438085
-28,Popcorn 500g ICA,337,1422,3.4,0.5,61,0.5,0,9.4, Salt 0.13 g,33.90,16.95,https://handlaprivatkund.ica.se/stores/1003422/products/Popcorn-500g-ICA/1026204
-29,Vetemjöl 5kg ICA,340,1450,1.50,0.10,71,0.50,3,10, Salt 0.01 g,8.79,43.95,https://handlaprivatkund.ica.se/stores/1003422/products/Vetemj%C3%B6l-5kg-ICA/1366464
-30,Vetemjöl 2kg Kungsörnen,340,1450,1.6,0.4,70,0.3,3.5,10, Salt 0 g,11.48,22.95,https://handlaprivatkund.ica.se/stores/1003422/products/Vetemj%C3%B6l-2kg-Kungs%C3%B6rnen/1502241
-31,"Finkrossade Tomater 3-p 1,2kg Mutti",26,110,0.2,0.1,3.9,2.8,0,1.2, Salt 0.3 g,30.79,36.95,https://handlaprivatkund.ica.se/stores/1003422/products/Finkrossade-Tomater-3-p-1-2kg-Mutti/1467242
-32,Krossade Tomater 400g ICA Basic,20,90,0.5,0,3,3,0.9,1.2, Salt 0.1 g,19.88,7.95,https://handlaprivatkund.ica.se/stores/1003422/products/Krossade-Tomater-400g-ICA-Basic/1411306
-33,Veckans Toast 800g Pågen,260,1100,3.5,0.4,47,3.5,2.5,8.5, Salt 1.3 g,33.69,26.95,https://handlaprivatkund.ica.se/stores/1003422/products/Veckans-Toast-800g-P%C3%A5gen/1415800
-34,Roast'n toast Rostbröd 800g Pågen,263,1100,3.6,0.4,46,4.7,3.6,8.9, Salt 1 g,46.19,36.95,https://handlaprivatkund.ica.se/stores/1003422/products/Roast-n-toast-Rostbr%C3%B6d-800g-P%C3%A5gen/1253595
-35,Lingongrova 500g Pågen,266,1112,3,0.3,47,9,6.1,8.8, Salt 0.77 g,57.90,28.95,https://handlaprivatkund.ica.se/stores/1003422/products/Lingongrova-500g-P%C3%A5gen/1023753
-36,Grillkorv 500g ICA,210,900,15,7.5,13,0.7,0,6.7, Salt 2.2 g,47.90,23.95,https://handlaprivatkund.ica.se/stores/1003422/products/Grillkorv-500g-ICA/1477188
-37,Grillkorv Klassisk 960g Scan,250,1050,21,8,8,0.5,0,9, Salt 2.2 g,66.61,63.95,https://handlaprivatkund.ica.se/stores/1003422/products/Grillkorv-Klassisk-960g-Scan/1023697
+26,Kyckling bröstfile Fryst mörad 1kg ICA,90,400,1.5,0.5,0.5,0.5,0,19,0.6,97.95,97.95,https://handlaprivatkund.ica.se/stores/1003422/products/Kyckling-br%C3%B6stfile-Fryst-m%C3%B6rad-1kg-ICA/1487777
+27,Kycklingfilé Fryst 2kg Kronfågel,90,400,1.5,0.5,0.5,0.5,0,19,0.6,106.98,213.95,https://handlaprivatkund.ica.se/stores/1003422/products/Kycklingfil%C3%A9-Fryst-2kg-Kronf%C3%A5gel/1438085
+28,Popcorn 500g ICA,337,1422,3.4,0.5,61,0.5,0,9.4,0.13,33.90,16.95,https://handlaprivatkund.ica.se/stores/1003422/products/Popcorn-500g-ICA/1026204
+29,Vetemjöl 5kg ICA,340,1450,1.50,0.10,71,0.50,3,10,0.01,8.79,43.95,https://handlaprivatkund.ica.se/stores/1003422/products/Vetemj%C3%B6l-5kg-ICA/1366464
+30,Vetemjöl 2kg Kungsörnen,340,1450,1.6,0.4,70,0.3,3.5,10,0,11.48,22.95,https://handlaprivatkund.ica.se/stores/1003422/products/Vetemj%C3%B6l-2kg-Kungs%C3%B6rnen/1502241
+31,"Finkrossade Tomater 3-p 1,2kg Mutti",26,110,0.2,0.1,3.9,2.8,0,1.2,0.3,30.79,36.95,https://handlaprivatkund.ica.se/stores/1003422/products/Finkrossade-Tomater-3-p-1-2kg-Mutti/1467242
+32,Krossade Tomater 400g ICA Basic,20,90,0.5,0,3,3,0.9,1.2,0.1,19.88,7.95,https://handlaprivatkund.ica.se/stores/1003422/products/Krossade-Tomater-400g-ICA-Basic/1411306
+33,Veckans Toast 800g Pågen,260,1100,3.5,0.4,47,3.5,2.5,8.5,1.3,33.69,26.95,https://handlaprivatkund.ica.se/stores/1003422/products/Veckans-Toast-800g-P%C3%A5gen/1415800
+34,Roast'n toast Rostbröd 800g Pågen,263,1100,3.6,0.4,46,4.7,3.6,8.9,1,46.19,36.95,https://handlaprivatkund.ica.se/stores/1003422/products/Roast-n-toast-Rostbr%C3%B6d-800g-P%C3%A5gen/1253595
+35,Lingongrova 500g Pågen,266,1112,3,0.3,47,9,6.1,8.8,0.77,57.90,28.95,https://handlaprivatkund.ica.se/stores/1003422/products/Lingongrova-500g-P%C3%A5gen/1023753
+36,Grillkorv 500g ICA,210,900,15,7.5,13,0.7,0,6.7,2.2,47.90,23.95,https://handlaprivatkund.ica.se/stores/1003422/products/Grillkorv-500g-ICA/1477188
+37,Grillkorv Klassisk 960g Scan,250,1050,21,8,8,0.5,0,9,2.2,66.61,63.95,https://handlaprivatkund.ica.se/stores/1003422/products/Grillkorv-Klassisk-960g-Scan/1023697
 38,"Herrgård mild 28% ca 1,5kg Arla Ko®",360,1493,28,18,0,0,0,26,1.3,1.5,0,https://handlaprivatkund.ica.se/stores/1003422/products/Herrg%C3%A5rd-mild-28-ca-1-5kg-Arla-Ko/1269118
 39,Yoghurt Mild Naturell Ekologisk 1500g Arla Ko®,65,280,4,2.6,3.8,3.8,0,3.4,0.1,15.97,23.95,https://handlaprivatkund.ica.se/stores/1003422/products/Yoghurt-Mild-Naturell-Ekologisk-1500g-Arla-Ko/2023881
 40,Mild yoghurt Naturell 3% 1000g Arla Ko®,60,250,3,1.9,3.8,3.8,0,3.4,0.1,20.95,20.95,https://handlaprivatkund.ica.se/stores/1003422/products/Mild-yoghurt-Naturell-3-1000g-Arla-Ko/2032471
