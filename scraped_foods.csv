@@ -1,3 +1,3 @@
-,product,kg_price,price,kcal,kj,fat,sat_fat,carb,sugar,fiber,protein,salt,url
-1,Tortiglioni 400g Zeta,57.38,22.95,367,1555,1,0,73,3,2,14,0,https://handlaprivatkund.ica.se/stores/1003417/products/Tortiglioni-400g-Zeta/1401709
-2,Kycklingfilé Fryst 1kg Kronfågel,124.95,124.95,90,400,1,0,0,0,19,0,,https://handlaprivatkund.ica.se/stores/1003417/products/Kycklingfil%C3%A9-Fryst-1kg-Kronf%C3%A5gel/1209917
+,product,kcal,kj,fat_g,sat_fat_g,carb_g,sugar_g,fiber_g,protein_g,salt_g,kg_price_kr,price_kr,url
+1,Tortiglioni 400g Zeta,367,1555,1.5,0.5,73,3,2.5,14,0,57.38,22.95,https://handlaprivatkund.ica.se/stores/1003417/products/Tortiglioni-400g-Zeta/1401709
+2,Kycklingfilé Fryst 1kg Kronfågel,90,400,1.5,0.5,0.5,0.5,0,19,0.6,124.95,124.95,https://handlaprivatkund.ica.se/stores/1003417/products/Kycklingfil%C3%A9-Fryst-1kg-Kronf%C3%A5gel/1209917
